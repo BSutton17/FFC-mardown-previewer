@@ -1,14 +1,18 @@
-#editor{
+
+#editor {
   display: block;
   margin-left: auto;
   margin-right: auto;
   min-width: 350px;
   min-height: 200px;
-  border: 3px solid #a0d2eb;
+  border-radius: 8px;
+  border: 5px solid #ec240af8;
+  background-color: #2b2a27;
+  color: #ece8e8;
 }
 
-#preview{
-  background-color: #e5eaf5;
+#preview {
+  background-color: #e64003de;
   min-height: 100px;
   width: fit-content;
   height: fit-content;
@@ -17,20 +21,21 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
-  border: 3px solid #8458B3;
+  border: 3px solid #0c0c0c;
   border-radius: 8px;
 }
 
-#title{
+#title {
   text-align: center;
+  color: #ec240af8; 
 }
 
-img{
+img {
   height: 50%;
-  width:50%
+  width: 50%;
 }
 
-footer{
-  color: #a0d2eb;
+footer {
+  color: #ec240af8;
   text-align: center;
 }
