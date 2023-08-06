@@ -14,7 +14,7 @@
 #preview {
   background-color: #e64003de;
   min-height: 100px;
-  width: fit-content;
+  max-width: 75%;
   height: fit-content;
   margin: 0;
   display: block;
